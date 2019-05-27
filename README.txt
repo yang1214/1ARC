@@ -1,3 +1,11 @@
+member:
+Zongyang Li  288135
+
+the git address: git@github.com:yang1214/Supinfo-1ARC-Project.git
+the project will be privated until ninth June(after the deadline of project)
+
+also, there are a CARTOON and an INTRODUCTION for the game!
+
 ---------------------------------THE MAZE AND HERO--------------------------------------------
 version 1.0
 running in intel 8086 written by assembly language
